@@ -251,3 +251,6 @@ DATABASE_URL="postgresql+asyncpg://..." python seed.py
 | Server | Gunicorn + Uvicorn | Process management + async ASGI |
 | Cloud DB | Neon | Serverless Postgres, autoscaling, branching |
 | Hosting | Render | Git-push deploys, auto-TLS, health checks |
+
+## Deployment Status
+Application deployed successfully on Railway.
